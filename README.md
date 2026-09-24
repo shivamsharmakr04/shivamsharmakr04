@@ -27,20 +27,22 @@ I build full-stack web applications, responsive interfaces, REST APIs, authentic
   <img src="./profile/streak.svg" alt="GitHub contribution streak"/>
 </p>
 
-> This streak card is generated automatically from my GitHub contribution calendar by GitHub Actions. It refreshes hourly and updates when GitHub records new qualifying contributions.
+> This streak card is generated automatically from my GitHub contribution calendar by GitHub Actions.
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamsharmakr04&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsharmakr04&layout=compact&hide_border=true&langs_count=8" height="165" alt="Most used languages"/>
+  <img src="./profile/stats.svg" height="165" alt="GitHub statistics"/>
+  <img src="./profile/top-langs.svg" height="165" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamsharmakr04&hide_border=true&area=true" alt="GitHub activity graph"/>
+  <img src="./profile/activity.svg" alt="GitHub activity graph and contribution activity"/>
 </p>
+
+> The GitHub statistics, language, and activity cards are generated and stored in this repository by GitHub Actions, so the profile does not depend on external image URLs.
 
 ---
 
