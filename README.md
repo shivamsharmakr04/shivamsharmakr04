@@ -13,6 +13,14 @@ I build responsive, production-minded web applications with clean interfaces, RE
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivamsharmakr04&hide_border=true" alt="Shivam Sharma GitHub contribution streak" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 - Full-stack development with **React, Next.js, Node.js, and Express**
