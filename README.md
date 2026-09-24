@@ -24,10 +24,10 @@ I build full-stack web applications, responsive interfaces, REST APIs, authentic
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamsharmakr04&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="./profile/streak.svg" alt="GitHub contribution streak"/>
 </p>
 
-> The streak and contribution information are generated from GitHub activity and update automatically.
+> This streak card is generated automatically from my GitHub contribution calendar by GitHub Actions. It refreshes hourly and updates when GitHub records new qualifying contributions.
 
 ---
 
