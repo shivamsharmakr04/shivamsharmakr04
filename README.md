@@ -1,12 +1,13 @@
-<div align="center">
-
 # 👋 Hi, I'm Shivam Kumar
 
-### Full-Stack Developer • React • Next.js • Node.js • MongoDB
+### Full-Stack Developer | React | Next.js | Node.js | MongoDB
 
-**I turn ideas into responsive, scalable, and production-minded web applications.**
+I build full-stack web applications, responsive interfaces, REST APIs, authentication systems, dashboards, and data-driven applications.
 
-<p>
+🎓 B.Tech — Computer Science & Engineering  
+📍 Dehradun, Uttarakhand, India
+
+<p align="left">
   <a href="https://github.com/shivamsharmakr04">
     <img src="https://img.shields.io/badge/GitHub-shivamsharmakr04-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
@@ -14,49 +15,27 @@
     <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/shivamsharmakr04/Personal-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=vercel" alt="Portfolio"/>
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+clean+and+scalable+web+apps;Always+learning%2C+building+and+shipping" alt="Typing introduction"/>
-
-</div>
-
 ---
 
-## ⚡ Developer Snapshot
-
-<table>
-<tr>
-<td width="50%">
-
-🎓 **B.Tech — Computer Science & Engineering**  
-📍 Dehradun, Uttarakhand, India  
-💻 **Full-Stack Web Development**  
-🤖 AI-powered web applications  
-🧩 REST APIs & database-driven systems  
-🚀 Learning → Building → Shipping
-
-</td>
-<td width="50%">
-
-### 🔥 Current Streak
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivamsharmakr04&hide_border=true&border_radius=10" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=shivamsharmakr04&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
-</td>
-</tr>
-</table>
+> The streak and contribution information are generated from GitHub activity and update automatically.
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamsharmakr04&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsharmakr04&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamsharmakr04&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsharmakr04&layout=compact&hide_border=true&langs_count=8" height="165" alt="Most used languages"/>
 </p>
 
 <p align="center">
@@ -65,94 +44,135 @@
 
 ---
 
-## 🧠 What I Build
+## 🧰 Technologies I Work With
 
-<div align="center">
+### Frontend
+- React
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
 
-| 🖥️ Frontend | ⚙️ Backend | 🗄️ Data | 🤖 AI & Automation |
-|---|---|---|---|
-| React / Next.js | Node.js / Express | MongoDB / MySQL | OCR / AI integrations |
-| TypeScript | REST APIs | Supabase | Data-driven workflows |
-| Tailwind CSS | JWT / Auth | Data modeling | Practical automation |
+### Backend
+- Node.js
+- Express.js
+- FastAPI
+- REST APIs
+- JWT authentication
 
-</div>
+### Databases & Services
+- MongoDB
+- MongoDB / Mongoose
+- MySQL
+- Supabase
+- PostgreSQL
+- Supabase Authentication
+- Supabase Realtime
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,supabase,git,github,vite" alt="Technology stack"/>
-</p>
+### Tools & Libraries
+- Git
+- GitHub
+- Framer Motion
+- Axios
+- TanStack Query
+- Chart.js
+- Tesseract.js
+- PDFKit
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🛡️ CertiVerify
-**React · Node.js · Express · MongoDB · JWT · Tesseract OCR**
+### 🛡️ CertiVerify — Certificate Verification Platform
 
-Certificate verification platform with authentication, student/admin workflows, OCR-assisted verification, document processing, PDF generation, and analytics.
+**React · Vite · Node.js · Express · MongoDB · JWT · Tesseract.js**
 
-**[→ View Repository](https://github.com/shivamsharmakr04/Certificate-verification-system)**
+A certificate verification system supporting certificate issuance, public verification, OCR-assisted image verification, student/admin portals, PDF generation, and verification analytics.
 
----
-
-### 💰 Finova Pro
-**Node.js · Express · JWT · Chart.js**
-
-Personal finance platform covering transactions, budgets, savings goals, subscriptions, analytics, exports, and forecasting.
-
-**[→ View Repository](https://github.com/shivamsharmakr04/finance-Dashboard)**
+**[View Repository →](https://github.com/shivamsharmakr04/Certificate-verification-system)**
 
 ---
 
 ### 🎓 Student Dashboard
-**Next.js · TypeScript · Supabase · Tailwind CSS**
 
-Modern student dashboard focused on responsive UI, reusable components, authentication/data integration, and dashboard workflows.
+**Next.js · React · TypeScript · Express · Supabase · Tailwind CSS**
 
-**[→ View Repository](https://github.com/shivamsharmakr04/Student-Dashboard)**
+A full-stack student management dashboard with authentication, course progress, assignments, schedules, academic analytics, profile management, Supabase Realtime synchronization, REST APIs, and Row Level Security.
+
+**[View Repository →](https://github.com/shivamsharmakr04/Student-Dashboard)**
+
+---
+
+### 💰 Finova Pro — Personal Finance Dashboard
+
+**Node.js · Express · JavaScript · Chart.js · JWT**
+
+Personal finance platform with transactions, budgets, savings goals, subscriptions, analytics, exports, multi-currency support, background synchronization, and forecasting features.
+
+**[View Repository →](https://github.com/shivamsharmakr04/finance-Dashboard)**
 
 ---
 
 ### 💼 Job Listing Platform
-**React · Node.js · Express · MongoDB · JWT**
 
-Full-stack job portal with authentication, job management, applications, profiles, and resume uploads.
+**React · Vite · Node.js · Express · MongoDB · JWT**
 
-**[→ View Repository](https://github.com/shivamsharmakr04/job-listing-app)**
+Full-stack job portal with candidate/admin authentication, job search, job management, applications, profiles, dashboards, and resume uploads.
+
+**[View Repository →](https://github.com/shivamsharmakr04/job-listing-app)**
 
 ---
 
 ### ✈️ Flight Booker
-**React · Node.js · Express · Tailwind CSS**
 
-Flight booking application featuring search, seat selection, passenger workflows, booking history, and PDF ticket generation.
+**React · Vite · Node.js · Express · Tailwind CSS · JWT**
 
-**[→ View Repository](https://github.com/shivamsharmakr04/flight-booker)**
+Flight reservation application with flight search, seat selection, passenger management, checkout workflow, booking history, digital boarding passes, and PDF ticket generation.
 
----
-
-### 🌐 Personal Portfolio
-**HTML · CSS · JavaScript**
-
-Interactive developer portfolio showcasing projects, skills, animations, and contact information.
-
-**[→ View Repository](https://github.com/shivamsharmakr04/Personal-Portfolio)**
+**[View Repository →](https://github.com/shivamsharmakr04/flight-booker)**
 
 ---
 
-## 🚀 Currently Building My Skills
+### 🛰️ IBVAP — Intelligent Border Video Analytics Platform
 
-```text
-JavaScript / TypeScript  ███████████████████░  Advanced
-React / Next.js          ██████████████████░░  Advanced
-Node.js / Express        █████████████████░░░  Advanced
-MongoDB / SQL            ████████████████░░░░  Strong
-DSA                      █████████████░░░░░░░  Learning
-AI-powered Applications  ██████████████░░░░░░  Exploring
-```
+**React · Vite · FastAPI · PostgreSQL · SQLite · WebSockets**
+
+Full-stack command-and-control prototype for camera monitoring, zones, events, alerts, watchlists, dashboard data, media handling, and real-time alert delivery.
+
+**[View Repository →](https://github.com/shivamsharmakr04/IBVAP)**
+
+---
+
+### ⚛️ Elementum — AI & Digital Product Studio
+
+**React 19 · Vite · Tailwind CSS · Framer Motion**
+
+Interactive frontend project featuring a product-studio landing page, portfolio exploration, services, project estimator, inquiry wizard, testimonials, FAQs, responsive navigation, and motion-driven UI.
+
+**[View Repository →](https://github.com/shivamsharmakr04/Elementum)**
+
+---
+
+### 🎨 Personal Portfolio
+
+**HTML5 · CSS3 · JavaScript · Canvas API**
+
+Personal developer portfolio with multi-theme UI, particle background, 3D card interactions, developer-style terminal interface, project filtering, contact form integration, and responsive design.
+
+**[View Repository →](https://github.com/shivamsharmakr04/Personal-Portfolio)**
+
+---
+
+## 📚 Learning & Development
+
+- Advanced JavaScript and TypeScript
+- React and Next.js
+- Backend architecture and REST API development
+- Data Structures & Algorithms
+- AI-powered web applications
 
 ---
 
@@ -161,44 +181,34 @@ AI-powered Applications  ██████████████░░░░�
 **Frontend Development Intern — Happieloop Technologies**  
 _Remote · 2025_
 
-Worked on responsive interfaces and modern frontend development workflows.
+Frontend development focused on responsive interfaces and modern web development workflows.
 
 **Full-Stack / AI Engineering Intern — Techsolv IT Service**  
 _Remote_
 
-Worked across AI concepts, data structures, backend development, frontend development, and model-oriented problem solving.
+Experience across AI concepts, data structures, backend development, frontend development, and model-oriented problem solving.
 
 ---
 
-## 🎯 Current Focus
+## 📌 Other Repositories
 
-- ⚛️ Advanced React & Next.js architecture
-- 🟦 JavaScript & TypeScript
-- 🧠 Data Structures & Algorithms
-- 🔌 Backend architecture & API design
-- 🤖 AI-powered web applications
-- ☁️ Production-ready deployment & engineering practices
+- **Frontend Interview** — React + TypeScript blog application using TanStack Query, Tailwind CSS, JSON Server, Framer Motion, and reusable components.
+- **Thirdeye** — Private repository.
+- Additional projects and experiments are available on my GitHub profile.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:shivamsharmakr04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/shivam-kumar-b0aab2209">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/shivamsharmakr04">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="mailto:shivamsharmakr04@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/shivam-kumar-b0aab2209">LinkedIn</a> •
+  <a href="https://github.com/shivamsharmakr04">GitHub</a> •
+  <a href="https://github.com/shivamsharmakr04/Personal-Portfolio">Portfolio</a>
 </p>
 
-<div align="center">
+---
 
-### 💡 Build • Learn • Improve • Ship
-
-<img src="https://komarev.com/ghpvc/?username=shivamsharmakr04&style=flat-square&color=blue" alt="Profile views"/>
-
-</div>
+<p align="center">
+  <b>Build · Learn · Improve · Ship</b>
+</p>
