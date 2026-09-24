@@ -39,10 +39,10 @@ I build full-stack web applications, responsive interfaces, REST APIs, authentic
 </p>
 
 <p align="center">
-  <img src="./profile/activity.svg" alt="GitHub activity graph and contribution activity"/>
+  <img src="https://github.com/shivamsharmakr04.png" width="1" height="1" alt=""/>
 </p>
 
-> The GitHub statistics, language, and activity cards are generated and stored in this repository by GitHub Actions, so the profile does not depend on external image URLs.
+> GitHub's own profile page remains the source of truth for the contribution graph. The statistics, language, and streak cards above are generated and stored in this repository by GitHub Actions.
 
 ---
 
