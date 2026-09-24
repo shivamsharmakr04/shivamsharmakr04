@@ -1,4 +1,4 @@
-name: Update streak stats
+name: Update GitHub profile stats
 
 on:
   schedule:
@@ -20,28 +20,60 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate GitHub streak stats
+      - name: Generate contribution streak
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
           options: user=${{ github.repository_owner }}&theme=default&disable_animations=true&timezone=Asia/Kolkata
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit updated streak
+      - name: Generate GitHub statistics
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile/activity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity
+          config_timezone: Asia/Kolkata
+          config_display: regular
+          config_output: svg
+          output_action: none
+
+      - name: Copy generated activity card
+        run: |
+          mkdir -p profile
+          cp /metrics_renders/profile/activity.svg profile/activity.svg
+
+      - name: Commit updated profile cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/streak.svg
+          git add profile/*.svg
 
-          if git diff --cached --quiet -- profile/streak.svg; then
-            echo "No streak SVG changes to commit."
+          if git diff --cached --quiet -- profile/*.svg; then
+            echo "No profile card changes to commit."
             exit 0
           fi
 
-          git commit -m "chore: update GitHub streak stats"
+          git commit -m "chore: update GitHub profile stats"
 
-          # The profile README can change independently while this workflow runs.
-          # Rebase the generated SVG commit onto the latest main before pushing.
+          # Avoid conflicts if the README or another workflow changed main
+          # while this job was generating the cards.
           git pull --rebase origin main
           git push
