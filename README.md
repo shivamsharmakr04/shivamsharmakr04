@@ -1,180 +1,160 @@
 # 👋 Hi, I'm Shivam Kumar
 
-### Full-Stack Developer | React | Next.js | Node.js | MongoDB
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%7C+React+%7C+Next.js;Building+clean%2C+scalable+and+interactive+web+apps;Turning+ideas+into+production-ready+products" alt="Animated typing introduction" />
+</p>
 
-I build full-stack web applications, responsive interfaces, REST APIs, authentication systems, dashboards, and data-driven applications.
-
-🎓 B.Tech — Computer Science & Engineering  
-📍 Dehradun, Uttarakhand, India
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/shivamsharmakr04">
-    <img src="https://img.shields.io/badge/GitHub-shivamsharmakr04-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-shivamsharmakr04-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/shivam-kumar-b0aab2209">
-    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/shivamsharmakr04/Personal-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivamsharmakr04&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shivamsharmakr04?label=Followers&style=flat-square" alt="GitHub followers" />
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🚀 What I Build
+
+I build **full-stack web applications** with a strong focus on polished UI, responsive experiences, reliable APIs, authentication, dashboards, and data-driven features.
+
+🎓 **B.Tech — Computer Science & Engineering**  
+📍 **Dehradun, Uttarakhand, India**
+
+> ✨ I enjoy turning product ideas into fast, maintainable, and interactive experiences.
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub contribution streak"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite,nodejs,express,fastapi,mongodb,mysql,postgres,supabase,git,github&perline=9" alt="Technology stack" />
 </p>
 
-> This streak card is generated automatically from my GitHub contribution calendar by GitHub Actions.
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ CertiVerify
+**Certificate Verification Platform**
+
+React · Vite · Node.js · Express · MongoDB · JWT · Tesseract.js
+
+Certificate issuance, public verification, OCR-assisted image verification, admin/student portals, PDF generation, and verification analytics.
+
+**[View Project →](https://github.com/shivamsharmakr04/Certificate-verification-system)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Student Dashboard
+**Full-Stack Academic Platform**
+
+Next.js · React · TypeScript · Express · Supabase · Tailwind CSS
+
+Authentication, courses, assignments, schedules, academic analytics, profile management, realtime synchronization, REST APIs, and Row Level Security.
+
+**[View Project →](https://github.com/shivamsharmakr04/Student-Dashboard)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Finova Pro
+**Personal Finance Dashboard**
+
+Node.js · Express · JavaScript · Chart.js · JWT
+
+Transactions, budgets, savings goals, subscriptions, analytics, exports, multi-currency support, synchronization, and forecasting.
+
+**[View Project →](https://github.com/shivamsharmakr04/finance-Dashboard)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ IBVAP
+**Intelligent Border Video Analytics Platform**
+
+React · Vite · FastAPI · PostgreSQL · SQLite · WebSockets
+
+Camera monitoring, zones, events, alerts, watchlists, dashboard data, media handling, and realtime alert delivery.
+
+**[View Project →](https://github.com/shivamsharmakr04/IBVAP)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚛️ Elementum
+**AI & Digital Product Studio**
+
+React 19 · Vite · Tailwind CSS · Framer Motion
+
+Interactive landing page, portfolio exploration, services, project estimator, inquiry wizard, testimonials, FAQs, responsive navigation, and motion-driven UI.
+
+**[View Project →](https://github.com/shivamsharmakr04/Elementum)**
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Flight Booker
+**Flight Reservation Platform**
+
+React · Vite · Node.js · Express · Tailwind CSS · JWT
+
+Flight search, seat selection, passenger management, checkout, booking history, boarding passes, and PDF ticket generation.
+
+**[View Project →](https://github.com/shivamsharmakr04/flight-booker)**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" height="165" alt="GitHub statistics"/>
-  <img src="./profile/top-langs.svg" height="165" alt="Most used languages"/>
+  <img src="./profile/streak.svg" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/shivamsharmakr04.png" width="1" height="1" alt=""/>
+  <img src="./profile/stats.svg" height="170" alt="GitHub statistics" />
+  <img src="./profile/top-langs.svg" height="170" alt="Most used languages" />
 </p>
 
-> GitHub's own profile page remains the source of truth for the contribution graph. The statistics, language, and streak cards above are generated and stored in this repository by GitHub Actions.
+<p align="center">
+  <img src="./profile/activity.svg" alt="GitHub activity visualization" />
+</p>
 
 ---
 
-## 🧰 Technologies I Work With
+## 🧩 Beyond the Projects
 
-### Frontend
-- React
-- Next.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Vite
-
-### Backend
-- Node.js
-- Express.js
-- FastAPI
-- REST APIs
-- JWT authentication
-
-### Databases & Services
-- MongoDB
-- MongoDB / Mongoose
-- MySQL
-- Supabase
-- PostgreSQL
-- Supabase Authentication
-- Supabase Realtime
-
-### Tools & Libraries
-- Git
-- GitHub
-- Framer Motion
-- Axios
-- TanStack Query
-- Chart.js
-- Tesseract.js
-- PDFKit
-
----
-
-## ⭐ Featured Projects
-
-### 🛡️ CertiVerify — Certificate Verification Platform
-
-**React · Vite · Node.js · Express · MongoDB · JWT · Tesseract.js**
-
-A certificate verification system supporting certificate issuance, public verification, OCR-assisted image verification, student/admin portals, PDF generation, and verification analytics.
-
-**[View Repository →](https://github.com/shivamsharmakr04/Certificate-verification-system)**
-
----
-
-### 🎓 Student Dashboard
-
-**Next.js · React · TypeScript · Express · Supabase · Tailwind CSS**
-
-A full-stack student management dashboard with authentication, course progress, assignments, schedules, academic analytics, profile management, Supabase Realtime synchronization, REST APIs, and Row Level Security.
-
-**[View Repository →](https://github.com/shivamsharmakr04/Student-Dashboard)**
-
----
-
-### 💰 Finova Pro — Personal Finance Dashboard
-
-**Node.js · Express · JavaScript · Chart.js · JWT**
-
-Personal finance platform with transactions, budgets, savings goals, subscriptions, analytics, exports, multi-currency support, background synchronization, and forecasting features.
-
-**[View Repository →](https://github.com/shivamsharmakr04/finance-Dashboard)**
-
----
-
-### 💼 Job Listing Platform
-
-**React · Vite · Node.js · Express · MongoDB · JWT**
-
-Full-stack job portal with candidate/admin authentication, job search, job management, applications, profiles, dashboards, and resume uploads.
-
-**[View Repository →](https://github.com/shivamsharmakr04/job-listing-app)**
-
----
-
-### ✈️ Flight Booker
-
-**React · Vite · Node.js · Express · Tailwind CSS · JWT**
-
-Flight reservation application with flight search, seat selection, passenger management, checkout workflow, booking history, digital boarding passes, and PDF ticket generation.
-
-**[View Repository →](https://github.com/shivamsharmakr04/flight-booker)**
-
----
-
-### 🛰️ IBVAP — Intelligent Border Video Analytics Platform
-
-**React · Vite · FastAPI · PostgreSQL · SQLite · WebSockets**
-
-Full-stack command-and-control prototype for camera monitoring, zones, events, alerts, watchlists, dashboard data, media handling, and real-time alert delivery.
-
-**[View Repository →](https://github.com/shivamsharmakr04/IBVAP)**
-
----
-
-### ⚛️ Elementum — AI & Digital Product Studio
-
-**React 19 · Vite · Tailwind CSS · Framer Motion**
-
-Interactive frontend project featuring a product-studio landing page, portfolio exploration, services, project estimator, inquiry wizard, testimonials, FAQs, responsive navigation, and motion-driven UI.
-
-**[View Repository →](https://github.com/shivamsharmakr04/Elementum)**
-
----
-
-### 🎨 Personal Portfolio
-
-**HTML5 · CSS3 · JavaScript · Canvas API**
-
-Personal developer portfolio with multi-theme UI, particle background, 3D card interactions, developer-style terminal interface, project filtering, contact form integration, and responsive design.
-
-**[View Repository →](https://github.com/shivamsharmakr04/Personal-Portfolio)**
-
----
-
-## 📚 Learning & Development
-
-- Advanced JavaScript and TypeScript
-- React and Next.js
-- Backend architecture and REST API development
+- Advanced JavaScript & TypeScript
+- React & Next.js application architecture
+- Backend systems and REST API development
+- Authentication and database design
 - Data Structures & Algorithms
 - AI-powered web applications
+- Modern UI, motion, and responsive design
 
 ---
 
@@ -183,34 +163,27 @@ Personal developer portfolio with multi-theme UI, particle background, 3D card i
 **Frontend Development Intern — Happieloop Technologies**  
 _Remote · 2025_
 
-Frontend development focused on responsive interfaces and modern web development workflows.
+Worked on responsive interfaces and modern frontend development workflows.
 
 **Full-Stack / AI Engineering Intern — Techsolv IT Service**  
 _Remote_
 
-Experience across AI concepts, data structures, backend development, frontend development, and model-oriented problem solving.
+Worked across AI concepts, data structures, backend development, frontend development, and model-oriented problem solving.
 
 ---
 
-## 📌 Other Repositories
-
-- **Frontend Interview** — React + TypeScript blog application using TanStack Query, Tailwind CSS, JSON Server, Framer Motion, and reusable components.
-- **Thirdeye** — Private repository.
-- Additional projects and experiments are available on my GitHub profile.
-
----
-
-## 🤝 Connect
+## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:shivamsharmakr04@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/shivam-kumar-b0aab2209">LinkedIn</a> •
-  <a href="https://github.com/shivamsharmakr04">GitHub</a> •
+  <a href="mailto:shivamsharmakr04@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/shivam-kumar-b0aab2209">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/shivamsharmakr04">GitHub</a>
+  &nbsp;•&nbsp;
   <a href="https://github.com/shivamsharmakr04/Personal-Portfolio">Portfolio</a>
 </p>
 
----
-
 <p align="center">
-  <b>Build · Learn · Improve · Ship</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=110&section=footer" alt="Animated footer" />
 </p>
