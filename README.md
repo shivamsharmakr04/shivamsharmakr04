@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Shivam Kumar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+React+Specialist+%7C+Frontend+Focus+%7C+Hiring" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20for-Full-Stack%20%26%20Frontend%20Roles-22c55e?style=for-the-badge&logo=rocket&labelColor=0f172a" alt="Open to work" />
